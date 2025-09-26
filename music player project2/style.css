@@ -23,13 +23,7 @@
     text-align: center;
     border-radius: 50px;
 
-}
-
-nav {
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 30px;
-}
+}
 
 nav .circle {
     border-radius: 50%;
